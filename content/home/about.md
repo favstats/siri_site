@@ -10,31 +10,24 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
+    "Chinese Sports",
+    "Statistics",
     "Information Retrieval"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Master in Economics"
+  institution = "University of Augsburg"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Bachelor in Business Administration"
+  institution = "FOM German-Sino School of Business & Technology"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I am a student from China, currently enrolled in my final semester as an Economics Master at the University of Augsburg in Germany. The focus of my studies is Strategy and Information. I have a Bachelor degree in Business Administration from an international program at Shangxi University in China which cooperates with FOM Essen in Germany. I am very passionate about Chinese Football and everything sports related and I have many innovative projects that connects Chinese and German businesses in a win-win situation.
