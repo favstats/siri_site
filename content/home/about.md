@@ -30,6 +30,8 @@ weight = 5
 
 # Biography
 
-![Resume (in German)](https://xirui-zhao.netlify.com/docs/XiruiZhaoLebenslauf)
+[Resume (in German)](https://xirui-zhao.netlify.com/docs/XiruiZhaoLebenslauf.pdf)
 
 I am a graduate of the Economics Master program at the University of Augsburg in Germany and the focus of my studies is Strategy and Information. I received a Bachelor degree in Business Administration from an international program at Shangxi University in China that was completed at the FOM Essen in Germany. I am very passionate about Chinese Football and everything sports related. I am very interested in innovative projects that connect Chinese and German businesses in a win-win situation.
+
+Currently looking for work in the German-Chinese job market.
