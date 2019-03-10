@@ -13,7 +13,7 @@ title = "Xirui Zhao"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -228,6 +228,11 @@ enableGitInfo = false
     icon = "envelope"
     icon_pack = "fas"
     link = "mailto:xirui.zhao.322048@hotmail.com"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/%E5%B8%8C%E8%95%8A-xirui-%E8%B5%B5-zhao-2483b1161/"
 
 #  [[params.social]]
 #    icon = "twitter"
@@ -264,6 +269,11 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
+[[menu.main]]
+  name = "German-Chinese Football"
+  url = "#gcf_ideas"
+  weight = 2
+
 # [[menu.main]]
 #   name = "Publications"
 #   url = "#publications_selected"
@@ -280,14 +290,14 @@ enableGitInfo = false
 #   weight = 4
 # 
 # [[menu.main]]
-#   name = "Teaching"
-#   url = "#teaching"
-#   weight = 5
+#  name = "Business Ideas"
+#  url = "#Business Ideas"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 3
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
