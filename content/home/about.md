@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "Master in Economics"
   institution = "University of Augsburg"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "Bachelor in Business Administration"
@@ -30,4 +30,6 @@ weight = 5
 
 # Biography
 
-I am a student from China, currently enrolled in my final semester as an Economics Master at the University of Augsburg in Germany. The focus of my studies is Strategy and Information. I have a Bachelor degree in Business Administration from an international program at Shangxi University in China which cooperates with FOM Essen in Germany. I am very passionate about Chinese Football and everything sports related and I have many innovative projects that connects Chinese and German businesses in a win-win situation.
+![Resume (in German)](https://xirui-zhao.netlify.com/docs/XiruiZhaoLebenslauf)
+
+I am a graduate of the Economics Master program at the University of Augsburg in Germany and the focus of my studies is Strategy and Information. I received a Bachelor degree in Business Administration from an international program at Shangxi University in China that was completed at the FOM Essen in Germany. I am very passionate about Chinese Football and everything sports related. I am very interested in innovative projects that connect Chinese and German businesses in a win-win situation.
